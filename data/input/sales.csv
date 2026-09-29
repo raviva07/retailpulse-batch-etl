@@ -1,0 +1,9 @@
+order_id,order_ts,customer_id,customer_name,city,product_id,product_name,category,quantity,unit_price
+O1001,2026-08-01T09:15:00,C001,Asha,Hyderabad,P01,Keyboard,Electronics,2,1500
+O1002,2026-08-01T10:10:00,C002,Rahul,Vijayawada,P02,Mouse,Electronics,1,700
+O1003,2026-08-02T12:30:00,C001,Asha,Hyderabad,P03,Notebook,Stationery,5,120
+O1004,2026-08-02T14:20:00,C003,Meena,Chennai,P01,Keyboard,Electronics,1,1500
+O1005,2026-08-03T11:05:00,C004,Arjun,Bengaluru,P04,Desk Lamp,Home,2,900
+O1006,2026-08-03T16:45:00,C002,Rahul,Vijayawada,P03,Notebook,Stationery,10,120
+O1007,2026-08-04T18:00:00,C005,Sana,Hyderabad,P02,Mouse,Electronics,3,700
+O1008,2026-08-04T18:20:00,C005,Sana,Hyderabad,P05,USB Hub,Electronics,1,1200

@@ -1,0 +1,8 @@
+{
+  "input_file": "data/input/sales.csv",
+  "warehouse_db": "warehouse/retailpulse.db",
+  "bronze_dir": "data/bronze",
+  "silver_dir": "data/silver",
+  "gold_dir": "data/gold",
+  "log_file": "logs/pipeline.log"
+}
